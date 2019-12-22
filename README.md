@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-A portfoilio created using portfolio
+A portfoilio created using bootstrap
